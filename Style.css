@@ -1,0 +1,18 @@
+ body {
+	height: 100vh;
+}
+.rektangel {
+	background-color: cornflowerblue;
+	height: 20vh;
+	width: 40%;
+	margin: 0 auto;
+}
+.cirkel {
+	background-color: yellow;
+	border-radius: 50%;
+	width: 20vh;
+	height: 100%;
+	margin: 0 auto;
+	position: relative;
+	
+	}
